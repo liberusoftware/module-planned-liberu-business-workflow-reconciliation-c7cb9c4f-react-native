@@ -1,0 +1,15 @@
+{
+  "repository": "module-planned-liberu-business-workflow-reconciliation-c7cb9c4f-react-native",
+  "capabilityKey": "planned:liberu:business-workflow-reconciliation",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-planned-liberu-business-workflow-reconciliation-c7cb9c4f-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/liberu/nextjs/business-workflow-reconciliation.md",
+  "presentationPlan": "projects/liberu/react-native/business-workflow-reconciliation.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "liberu"
+  ]
+}
